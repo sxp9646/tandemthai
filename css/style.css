@@ -17,6 +17,17 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
+
+.border-right {
+    border-right: 1px solid;
+    height: 400px;
+}
+
+.border-right-contact {
+    border-right: 1px solid;
+    height: 760px;
+}
+
 @font-face {
    font-family: 'Lato-Regular';
    src: url(../fonts/Lato-Regular.ttf)format('truetype');
