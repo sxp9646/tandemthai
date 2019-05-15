@@ -76,7 +76,7 @@ body {
 #custom_carousel .item {
 
     color:#000;
-    background-color:#eee;
+    background-color:#fff;
     padding:20px 0;
 }
 #custom_carousel .controls{
@@ -95,7 +95,7 @@ body {
     max-width:90px
 }
 #custom_carousel .controls li.active {
-    background-color:#eee;
+    background-color:#fff;
     border-top:3px solid green;
 }
 #custom_carousel .controls a small {
